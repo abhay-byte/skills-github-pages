@@ -1,5 +1,3 @@
-# Welcome to my Blog
-
 ## Hi, I'm @abhay-byte 👋
 
 - 👀 I'm interested in Mobile Develeopment, Web Development, Game Development, Metaverse and AI.
